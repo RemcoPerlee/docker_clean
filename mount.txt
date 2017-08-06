@@ -1,0 +1,11 @@
+freenas.local:/mnt/data/docker                /mnt/docker                nfs  auto  0  0
+freenas.local:/mnt/data/downloads             /mnt/downloads             nfs  auto  0  0
+freenas.local:/mnt/data/downloads_incomplete  /mnt/downloads_incomplete  nfs  auto  0  0
+freenas.local:/mnt/data/films                 /mnt/films                 nfs  auto  0  0
+freenas.local:/mnt/data/films_downloads       /mnt/films_downloads       nfs  auto  0  0
+freenas.local:/mnt/data/series                /mnt/series                nfs  auto  0  0
+freenas.local:/mnt/data/series_downloads      /mnt/series_downloads      nfs  auto  0  0
+freenas.local:/mnt/data/comics                /mnt/comics                nfs  auto  0  0
+freenas.local:/mnt/data/comics_downloads      /mnt/comics_downloads      nfs  auto  0  0
+freenas.local:/mnt/data/dropbox               /mnt/dropbox               nfs  auto  0  0
+freenas.local:/mnt/data/jenkins               /mnt/jenkins               nfs  auto  0  0
